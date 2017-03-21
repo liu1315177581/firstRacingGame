@@ -27,6 +27,7 @@
 //
 //////////////////////////////////////////////////////////////////////////////////////
 
+// 声明加载界面
 class LoadingUI extends eui.Component {
     public loadingBgGroup:eui.Group;
     public loadingLabel:eui.Label;
